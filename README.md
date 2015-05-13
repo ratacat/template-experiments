@@ -1,6 +1,6 @@
 #Templating Lab
 
-Today we're going to explore some approaches to html templating on the frontend.
+Experiment with different templating systems
 
 ##Goal
 
